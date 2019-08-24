@@ -1,0 +1,28 @@
+{
+  "name": "Node-Express-Appp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdityaKumarJha/Shopify-Node-Express-App-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdityaKumarJha/Shopify-Node-Express-App-2/issues"
+  },
+  "homepage": "https://github.com/AdityaKumarJha/Shopify-Node-Express-App-2#readme",
+  "dependencies": {
+    "cookie": "^0.4.0",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "nonce": "^1.0.4",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
