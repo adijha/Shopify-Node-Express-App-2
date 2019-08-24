@@ -12,7 +12,7 @@ const apiSecret = process.env.SHOPIFY_API_SECRET;
 const scopes = 'read_products';
 const forwardingAddress = "https://7c8a6813.ngrok.io"; 
 app.get('/', (req, res) => {
-  res.send('Hello World!');
+  res.send('npm is better than yarn');
 });
 
 app.listen(3000, () => {
